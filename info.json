@@ -1,11 +1,11 @@
 {
   "name": "researchharder",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "title": "Research Harder",
   "author": "tdzl2003",
   "contact": "",
   "homepage": "",
-  "factorio_version": "0.16",
-  "dependencies": ["base >= 0.16"],
+  "factorio_version": "0.17",
+  "dependencies": ["base >= 0.17"],
   "description": "For who want a longer game. Technology price got harder and harder after each research completed."
 }
